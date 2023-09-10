@@ -40,14 +40,6 @@ https://github.com/priyankav89/MyPortfolio/assets/127457597/82326b86-6849-45e4-b
 
 
 
-https://github.com/priyankav89/MyPortfolio/assets/127457597/3db447e1-8767-4b8e-88ff-c50386b190aa
-
-
-
-https://github.com/priyankav89/MyPortfolio/assets/127457597/910e7299-cc16-4449-9f0a-be571873d269
-
-
-
 ## DEPLOYED WEBPAGE 
 [LINK](https://priyanka-portfolio-2093267d006c.herokuapp.com/#resume)
 ## LICENSE

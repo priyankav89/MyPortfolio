@@ -36,4 +36,4 @@ When the user view the footer,then they are presented with text or icon links to
 [LINK]()
 ## LICENSE
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)(https://opensource.org/licenses/MIT)

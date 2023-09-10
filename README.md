@@ -32,8 +32,24 @@ When the user is  presented with the Resume section,then they see a link to a do
 
 When the user view the footer,then they are presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
+## DEMO
+
+
+https://github.com/priyankav89/MyPortfolio/assets/127457597/82326b86-6849-45e4-b2d0-18638a484184
+
+
+
+
+https://github.com/priyankav89/MyPortfolio/assets/127457597/3db447e1-8767-4b8e-88ff-c50386b190aa
+
+
+
+https://github.com/priyankav89/MyPortfolio/assets/127457597/910e7299-cc16-4449-9f0a-be571873d269
+
+
+
 ## DEPLOYED WEBPAGE 
-[LINK]()
+[LINK](https://priyanka-portfolio-2093267d006c.herokuapp.com/#resume)
 ## LICENSE
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)(https://opensource.org/licenses/MIT)

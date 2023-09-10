@@ -2,7 +2,6 @@ import React from "react";
 import myResume from "../../IMG/RESUME.png";
 import { BsCloudDownload } from "react-icons/bs";
 import { GrTechnology } from "react-icons/gr";
-import { FaBeer } from 'react-icons/fa'
 
 export default function Resume() {
   return (
